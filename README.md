@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 
-I'm currently enrolled in the undergrad course of Computer Science at Kennesaw State University. I like to say I'm a tech ~~connoisseur~~ enthusient 
+I'm currently enrolled in the undergrad course of Computer Science at Kennesaw State University. I like to say I'm a tech ~~connoisseur~~ enthusiast 
 that enjoy creating things at the top of my head (even though I would probably never finish it). <br />
 I also enjoy hiking, drinking matcha latte, and watching documentaries about different conflicts in society around the world. <br />
 I want this profile to showcase the most important concepts in different programming languages by using real-world cases.
