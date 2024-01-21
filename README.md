@@ -15,11 +15,6 @@ I also enjoy hiking, drinking matcha latte, and watching documentaries about dif
 I want this profile to showcase the most important concepts in different programming languages by using real-world cases.
 
 Thanks for viewing my gits!
-<br />
-
-☑️ **Currently Focused:** _Python, Pandas, Matplotlib, Seaborn, React.js, Node.js_ <br />
-☑️ **Interested In:** _PosteSQL, Django, Pytorch, Tensorflow_ <br />
-☑️ **Subject Areas:** _Programming, Software Engineering, Artificial Intelligience, Machine Learning, Futurology_
 
 <br><br>
 
@@ -45,9 +40,21 @@ Thanks for viewing my gits!
 - **Artificial Intelligence**:
   
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
+<br>
+    
+<br>
 
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br>
