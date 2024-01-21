@@ -4,6 +4,9 @@ jlisbon12/jlisbon12 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<h1 align="center"><b>Hello, I'm Je'Dae Lisbon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
 # About Me
 
 I'm currently enrolled in the undergrad course of Computer Science at Kennesaw State University. I like to say I'm a tech ~~connoisseur~~ enthusiast 
